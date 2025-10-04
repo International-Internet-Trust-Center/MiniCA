@@ -299,10 +299,11 @@ minica
 ---
 
 **MiniCA Professional Certificate Authority System**  
-Copyright © 2024 Gorq AI Platforms & IITCENTER.EU.ORG  
+Copyright © 2025 Gorq AI Platforms & IITCENTER.EU.ORG  
 All Rights Reserved  
 
 **Published by International Internet Trust Center**  
 https://iitcenter.eu.org
 
 **Ready for GitHub Release and Public Distribution**
+
