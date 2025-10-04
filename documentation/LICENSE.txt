@@ -2,7 +2,7 @@ PROPRIETARY SOFTWARE LICENSE AGREEMENT
 =====================================
 
 MiniCA Professional Certificate Authority System
-Copyright (c) 2024 Gorq AI Platforms & IITCENTER.EU.ORG
+Copyright (c) 2025 Gorq AI Platforms & IITCENTER.EU.ORG
 All Rights Reserved.
 
 IMPORTANT - READ CAREFULLY: This is a proprietary software license agreement 
@@ -108,4 +108,5 @@ Copyright (c) 2024. All Rights Reserved.
 
 This software is provided for public use under the terms of this 
 proprietary license agreement. Commercial licensing and support options 
+
 are available upon request.
