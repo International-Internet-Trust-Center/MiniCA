@@ -13,8 +13,8 @@ MiniCA is a comprehensive PKI (Public Key Infrastructure) system with a modern G
 
 ### Windows
 - **MiniCA-Professional-Installer.exe** - Professional NSIS installer (Recommended)
-- **MiniCA-Simple-Installer.zip** - Simple batch installer (not released)
-- **MiniCA-GUI-Installer.zip** - Python-based GUI installer (not released)
+- **MiniCA-Simple-Installer.zip** - Simple batch installer
+- **MiniCA-GUI-Installer.zip** - Python-based GUI installer
 
 ### Linux (Ubuntu/Debian)
 - **install.sh** - Linux installation script
@@ -132,7 +132,7 @@ This software is distributed under a proprietary license that allows public use 
 
 ### Gorq AI Platforms
 - **Website**: https://gorqai.digital
-- **Focus**: World benifiting technology research, development and deployment orgnisation.
+- **Focus**: AI-powered solutions and platforms
 
 ### International Internet Trust Centre (IITCENTER.EU.ORG)
 - **Website**: https://iitcenter.eu.org
@@ -160,7 +160,7 @@ This software is distributed under a proprietary license that allows public use 
 ---
 
 **MiniCA Professional Certificate Authority System**  
-Copyright © 2025 Gorq AI Platforms & IITCENTER.EU.ORG  
+Copyright © 2024 Gorq AI Platforms & IITCENTER.EU.ORG  
 All Rights Reserved  
 
 Published by International Internet Trust Center  
