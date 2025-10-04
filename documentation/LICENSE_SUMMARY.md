@@ -62,5 +62,6 @@ This proprietary license allows widespread public use of MiniCA while protecting
 
 ---
 **MiniCA Professional Certificate Authority System**  
-Copyright (c) 2024 Gorq AI Platforms & IITCENTER.EU.ORG  
+Copyright (c) 2025 Gorq AI Platforms & IITCENTER.EU.ORG  
 All Rights Reserved.
+
