@@ -46,10 +46,11 @@ MiniCA is a comprehensive PKI (Public Key Infrastructure) system with a modern G
 
 - **GitHub**: https://github.com/International-Internet-Trust-Center/MiniCA
 - **Issues**: https://github.com/International-Internet-Trust-Center/MiniCA/issues
-- **Email**: admin@iitcenter.eu.org
+- **Email**: support@iitcenter.eu.org
 
 ## License
 
 Proprietary Software License - Public Use Allowed  
 Copyright © 2025 Gorq AI Platforms & IITCENTER.EU.ORG  
+
 All Rights Reserved
